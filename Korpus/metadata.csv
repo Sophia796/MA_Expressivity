@@ -1,10 +1,11 @@
-﻿doc;source;author;title;year;period;text type
+﻿doc;source;author;title;year;period;text_type
 diacorisCampanile2.txt;DiaCoris;Achille Campanile;Gli asparagi e l'immortalità dell'anima;1974;1951-1975;espositivo
 LISCampanile1.txt;LIS;Achille Campanile;Chi non fa rirecitare non s'aspetti di ritrasmettere;1960;1951-1975;stampa
 LISCampanile2.txt;LIS;Achille Campanile;Belle prodezze/ Perry/ mettere nel sacco lo stupido tragg;1960;1951-1975;stampa
 LISCampanile3.txt;LIS;Achille Campanile;Peggio del monopolio il monopolio del monopolio;1960;1951-1975;stampa
 LISCampanile4.txt;LIS;Achille Campanile;Il triplice maledetto destino die refusi originali;1960;1951-1975;stampa
 LISCampanile5.txt;LIS;Achille Campanile;Il suo ultimo sabato sera;1960;1951-1975;stampa
+diacorisCampanile3.txt;DiaCoris;Achille Campanile;Attenzione al teledefunto con questi cervelli affettati;1958;1951-1975;stampa
 diacorisCampanile1.txt;DiaCoris;Achille Campanile / L'Europa;Si congeda in settimana la ragazza con gli orecchini;1958;1951-1975;stampa
 Teatro.V.5.Testo.txt;MIDIA;Achille Torelli;I mariti;1867;1851-1875;teatro
 LLBaratono2.txt;Liber Liber;Adelchi Baratono;Il mondo sensibile;1934;1926-1950;espositivo
@@ -53,6 +54,7 @@ LISArbasino2.txt;LIS;Alberto Arbasino;Gadda parla degli autori che l'arricchiron
 LISArbasino3.txt;LIS;Alberto Arbasino;I capodanno di Carlo Dossi. Lingua del Nord e narrativa ;1964;1951-1975;stampa
 ProsaLett.V.5.Testo.txt;MIDIA;Alberto Cantoni;L’illustrissimo;1906;1901-1925;prosa letteraria
 LISCavallari1.txt;LIS;Alberto Cavallari;Colloquio con Papa Paolo VI;1965;1951-1975;stampa
+diacorisCavallari1.txt;DiaCoris;Alberto Cavallari;Una formula ha aiutato l'azzurro a battere i negr;1960;1951-1975;stampa
 LISJacoviello1.txt;LIS;Alberto Jacoviello;Viaggio da Sopron a Györ e Budapest durante i tragici giorni vissuti dall'Ungheria;1956;1951-1975;stampa
 diacorisJacoviello1.txt;DiaCoris;Alberto Jacoviello / L'Unità;Viaggio da Sopron a Györ e Budapest durante i tragici giorni vissuti dall'Ungheria;1956;1951-1975;stampa
 ProsaLett.V.51.Testo.txt;MIDIA;Alberto Moravia;Gli indifferenti;1929;1926-1950;prosa letteraria
@@ -154,6 +156,7 @@ LISanonimo2.txt;LIS;anonimo;Il governo badoglio è di parer contrario ma la veri
 LISanonimo4.txt;LIS;anonimo;Il fascismo e la guerrra;1943;1926-1950;stampa
 LISanonimo5.txt;LIS;anonimo;Sradicare il fascismo;1943;1926-1950;stampa
 LISanonimo6.txt;LIS;anonimo;L'uomo è sulla Luna;1969;1951-1975;stampa
+diacorisAnonimo2.txt;DiaCoris;Anonimo;Guerra nostra;1916;1901-1925;stampa
 LLBarrili3.txt;Liber Liber;Anton Giulio Barrili;Con Garibaldi alle porte di Roma;1867;1851-1875;prosa letteraria
 LLBarrili5.txt;Liber Liber;Anton Giulio Barrili;L'olmo e l'edera;1869;1851-1875;prosa letteraria
 LLBarrili1.txt;Liber Liber;Anton Giulio Barrili;Capitan Dodero;1872;1851-1875;prosa letteraria
@@ -229,7 +232,9 @@ diacorisGraf1.txt;DiaCoris;Arturo Graf;Miti / Leggende e superstizioni del medio
 LISCamoriano1.txt;LIS;Attilio Camoriano;Irresistibile il Campionissimo! ;1953;1951-1975;stampa
 LLBargiacchi1.txt;Liber Liber;Augusto Bargiacchi;La galleria delle Donne;1835;1826-1850;poesia
 diacorisGuerriero1.txt;DiaCoris;Augusto Guerriero / Epoca;La tragedia algerina;1957;1951-1975;stampa
+diacorisGuerriero2.txt;DiaCoris;Augusto Guerriero / Epoca;L'oracolo ha parlato;1952;1951-1975;stampa
 Espositivi.IV.21.Testo.txt;MIDIA;Benedetto Marcello;Il teatro alla moda;1720;1700-1750;espositivo
+diacorisMussolini1.txt;DiaCoris;Benito Mussolini;Necessità morale;1915;1901-1925;stampa
 LLFontenelle1.txt;Liber Liber;Bernard de Fontenelle;Ragionamenti su la pluralità de' mondi;1748;1700-1750;espositivo
 LISValli1.txt;LIS;Bernardo Valli;Un chilometro di corone (1500) apriva il corteo;1964;1951-1975;stampa
 LISValli2.txt;LIS;Bernardo Valli;Come in settanta minuti Nasser è stato sconfitto da Israele ;1967;1951-1975;stampa
@@ -238,6 +243,9 @@ Personali.V.14.Testo.txt;MIDIA;Bruno Misèfari;Diario di un disertore;1912;1901-
 LLBisi3.txt;Liber Liber;Camilla Bisi;Il romanzo del liceo;1928;1926-1950;prosa letteraria
 LLBisi1.txt;Liber Liber;Camilla Bisi;Essere donna;1934;1926-1950;espositivo
 LLBisi2.txt;Liber Liber;Camilla Bisi;Il mio principe;1937;1926-1950;prosa letteraria
+diacorisCederna1.txt;DiaCoris;Camilla Cederna;Nella chiesa di Mao;1965;1951-1975;stampa
+diacorisCederna2.txt;DiaCoris;Camilla Cederna;Fanfani;1961;1951-1975;stampa
+diacorisCederna3.txt;DiaCoris;Camilla Cederna;L'educanda di Villa d'Este;1948;1926-1950;stampa
 ProsaLett.V.3.Testo.txt;MIDIA;Camillo Boito;Storielle vane;1876;1876-1900;prosa letteraria
 BibItBoito1.txt;BibIt;Camillo Boito;Senso. Nuove storielle vane;1883;1876-1900;prosa letteraria
 BibItBorghi1.txt;BibIt;Camillo Ranier Borghi;L'oplomachia pisana ovvero la battaglia del ponte di Pisa;1713;1700-1750;espositivo
@@ -258,6 +266,7 @@ LLCollodi3.txt;Liber Liber;Carlo Collodi;Storie allegre;1885;1876-1900;prosa let
 Personali.V.34.Testo.txt;MIDIA;Carlo Dossi;Amori;1869;1851-1875;personale
 ProsaLett.V.4.Testo.txt;MIDIA;Carlo Dossi;Goccie d’inchiostro;1880;1876-1900;prosa letteraria
 diacorisGadda1.txt;DiaCoris;Carlo Emilio Gadda;Racconto italiano d'ignoto del novecento;1925;1901-1925;prosa letteraria
+diacorisGadda2.txt;DiaCoris;Carlo Emilio Gadda;Traduzione di L'agente segreto di Joseph Conrad;1953;1951-1975;prosa letteraria
 ita000080.txt;ItaDraCor;Carlo Goldoni;Il servitore di due padroni;1746;1700-1750;teatro
 ita000088.txt;ItaDraCor;Carlo Goldoni;Le femmine puntigliose;1750;1700-1750;teatro
 ita000084.txt;ItaDraCor;Carlo Goldoni;La famiglia dell'antiquario;1750;1700-1750;teatro
@@ -274,11 +283,13 @@ ita000090.txt;ItaDraCor;Carlo Goldoni;Una delle ultime sere di carnovale;1762;17
 ita000087.txt;ItaDraCor;Carlo Goldoni;Le baruffe chiozzotte;1762;1751-1800;teatro
 ita000082.txt;ItaDraCor;Carlo Goldoni;Il ventaglio;1765;1751-1800;teatro
 Teatro.IV.23.Testo.txt;MIDIA;Carlo Gozzi;Turandot;1762;1751-1800;teatro
+diacorisGregoretti1.txt;DiaCoris;Carlo Gregoretti / L'Espresso;I lanzichenecchi di Caradonna;1968;1951-1975;stampa
 LISLaurenzi1.txt;LIS;Carlo Laurenzi;La folla canta sotto la pioggia in attesa di vedere la regina;1953;1951-1975;stampa
 diacorisLevi2.txt;DiaCoris;Carlo Levi;L'orologio;1950;1926-1950;espositivo
 LISMuscetta1.txt;LIS;Carlo Muscetta;Uno scrittore protesta contro la censura ;1952;1951-1975;stampa
 Espositivi.V.48.Testo.txt;MIDIA;Carlo Pisacane;La rivoluzione;1854;1851-1875;espositivo
 li1099.txt;CLiGS Ro;Carlo Righetti;La scapigliatura e il 6 febbrajo;1861;1851-1875;prosa letteraria
+diacorisRosselli1.txt;DiaCoris;Carlo Rosselli;Socialismo liberale;1928;1926-1950;espositivo
 LISSalinari1.txt;LIS;Carlo Salinari;Antologie;1960;1951-1975;stampa
 LLInvernizio1.txt;Liber Liber;Carolina Invernizio;I misteri delle soffitte;1901;1901-1925;prosa letteraria
 LLBalbo2.txt;Liber Liber;Cesare Balbo;Novelle;1829;1826-1850;prosa letteraria
@@ -319,6 +330,11 @@ LISCastro1.txt;LIS;Diego de Castro;Conoscere per decidere. Le statistiche e la p
 LISCastro2.txt;LIS;Diego de Castro;Se si provasse l'esistenza di una forza paranormale;1978;1976-2000;stampa
 LISBuzzanti1.txt;LIS;Dino Buzzanti;Il momento sublime;1969;1951-1975;stampa
 diacorisBuzzati2.txt;DiaCoris;Dino Buzzanti / Il Corriere della Sera;Un'ombra gira tra noi;1946;1926-1950;stampa
+diacorisBuzzati4.txt;DiaCoris;Dino Buzzati;Perché?;1961;1951-1975;stampa
+diacorisBuzzati5.txt;DiaCoris;Dino Buzzati;La bambolina del Vaiont;1964;1951-1975;stampa
+diacorisBuzzati6.txt;DiaCoris;Dino Buzzati;Gli sceriffi delle frane;1967;1951-1975;stampa
+diacorisBuzzati7.txt;DiaCoris;Dino Buzzati;Il «patos» è finito;1946;1926-1950;stampa
+diacorisBuzzati8.txt;DiaCoris;Dino Buzzati;Il demone degli asfalti;1960;1951-1975;stampa
 ProsaLett.V.41.Testo.txt;MIDIA;Dino Buzzati;Il deserto dei Tartari;1945;1926-1950;prosa letteraria
 diacorisBuzzati3.txt;DiaCoris;Dino Buzzati;Sessanta racconti;1958;1951-1975;prosa letteraria
 diacorisBuzzati1.txt;DiaCoris;Dino Buzzati / Il Corriere d'Informazione;Addio / anime innocenti!;1946;1926-1950;stampa
@@ -341,12 +357,15 @@ diacorisAmicis1.txt;DiaCoris;Edmondo de Amicis;Costantinopoli;1878;1876-1900;esp
 ITBI1508.txt;ELTeC;Edmondo de Amicis;Cuore;1886;1876-1900;prosa letteraria
 ProsaLett.V.7.Testo.txt;MIDIA;Edmondo de Amicis;Sull’Oceano;1889;1876-1900;prosa letteraria
 diacorisBoncinelli1.txt;DiaCoris;Edoardo Boncinelli / Liberal;Viva l'homo faber;2001;2001-2010;stampa
+diacorisSanguineti1.txt;DiaCoris;Eduardo Sanguineti;Ideologia e linguaggio;1965;1951-1975;espositivo
 LISCorradi1.txt;LIS;Egisto Corradi;In picchiata sopra i Vietcong;1965;1951-1975;stampa
 diacorisZolla1.txt;DiaCoris;Elémire Zolla;Storia del fantasticare;1964;1951-1975;espositivo
 LISPossenti1.txt;LIS;Eligio Possenti;Amleto di Riccardo Bacchelli ;1956;1951-1975;stampa
+diacorisVittorini1.txt;DiaCoris;Elio Vittorini;A proposito di Hemingway. A Fernanda Pivana;1946;1926-1950;stampa
 LLArtom1.txt;Liber Liber;Emanuele Artom;Diari;1940;1926-1950;personale
 LISAgazzi1.txt;LIS;Emilio Agazzi;Marxismo contro miti vecchi e nuovi ;1958;1951-1975;stampa
 diacorisCecchi1.txt;DiaCoris;Emilio Cecchi;L'anno della peste;1924;1901-1925;stampa
+diacorisCecchi2.txt;DiaCoris;Emilio Cecchi;Un secolo fa in Argentina;1925;1901-1925;stampa
 ProsaLett.V.11.Testo.txt;MIDIA;Emilio de Marchi;Demetrio Pianelli;1890;1876-1900;prosa letteraria
 Poesia.V.10.Testo.txt;MIDIA;Emilio Praga;Poesie;1862;1851-1875;poesia
 Poesia.V.11.Testo.txt;MIDIA;Emilio Praga;Poesie II;1862;1851-1875;poesia
@@ -357,6 +376,7 @@ LISEmanuelli1.txt;LIS;Enrico Emanuelli;Così «pianse» la Madonna davanti ad un
 diacorisNencioni1.txt;DiaCoris;Enrico Nencioni / La domenica letteraria;"""Canto nuovo"" e ""Terra vergine"" di Gabriele d'Annunzio";1882;1876-1900;stampa
 LISBettiza1.txt;LIS;Enzo Bettiza;Le atrocità rivelate a Mosca confermano quello che da trent'anni si diceva sulla Russia (;1961;1951-1975;stampa
 LISBiagi1.txt;LIS;Enzo Biagi;Come l'America ha appreso alla TV la morte del Presidente ;1963;1951-1975;stampa
+diacorisBiagi1.txt;DiaCoris;Enzo Biagi;L'alluvione del Polesine;1951;1951-1975;stampa
 LLBonaventura1.txt;Liber Liber;Enzo Bonaventura;L'educazione della volontà;1927;1926-1950;espositivo
 LLBonaventura3.txt;Liber Liber;Enzo Bonaventura;Problemi dell'orientamento professionale degli anormali psichici;1929;1926-1950;espositivo
 LLBonaventura2.txt;Liber Liber;Enzo Bonaventura;La fatica nel lavoro mentale;1931;1926-1950;espositivo
@@ -416,15 +436,19 @@ LISMontale29.txt;LIS;Eugenio Montale;Naufraghi del cielo ;1970;1951-1975;stampa
 LISMontale30.txt;LIS;Eugenio Montale;Il Diario di Mosca ;1970;1951-1975;stampa
 LISMontale31.txt;LIS;Eugenio Montale;Vivere a Milano ;1970;1951-1975;stampa
 LISMontale32.txt;LIS;Eugenio Montale;Il crematorio di Vienna ;1970;1951-1975;stampa
+diacorisMontale1.txt;DiaCoris;Eugenio Montale;L'artista da cuore buono;1972;1951-1975;stampa
 LISScalfari1.txt;LIS;Eugenio Scalfari;Gli studenti e la sinistra ;1968;1951-1975;stampa
 LISScalfari2.txt;LIS;Eugenio Scalfari;I compagni di piazza ;1970;1951-1975;stampa
 LISScalfari3.txt;LIS;Eugenio Scalfari;Il ministro delle allegre Finanze ;1974;1951-1975;stampa
 LISScalfari4.txt;LIS;Eugenio Scalfari;Mamma Dc non gli ha insegnato a dire 'no' ;1974;1951-1975;stampa
+diacorisScalfari1.txt;DiaCoris;Eugenio Scalfari;Un uomo assediato;1962;1951-1975;stampa
 diacorisGiarelli1.txt;DiaCoris;F. Giarelli / Cronaca Bizantina;Le streghe di Milano;1885;1876-1900;stampa
 diacorisDentice1.txt;DiaCoris;Fabrizio Dentice / L'Espresso;Il nuovo fronte. E adesso occupiamo le fabbriche;1968;1951-1975;stampa
 diacorisCialente1.txt;DiaCoris;Fausta Cialente;Le quattro ragazze Wieselberger;1976;1976-2000;prosa letteraria
 Poesia.IV.4.Testo.txt;MIDIA;Faustina Maratti Zappi;Poesie;1700;1700-1750;poesia
 LISAmico1.txt;LIS;Fedele d'Amico;Un naïf in casa Marx ;1975;1951-1975;stampa
+diacorisAmico1.txt;DiaCoris;Fedele d'Amico;L'opera teatrale di Gioacchino Rossini;1974;1951-1975;espositivo
+diacorisAmico2.txt;DiaCoris;Fedele d'Amico;Quattro balli con la morte;1974;1951-1975;stampa
 diacorisFederico1.txt;DiaCoris;Federico / Marc'Aurelio;Il racconto pubblicitario;1939;1926-1950;stampa
 it0274.txt;CLiGS Ku;Federico de Roberto;Documenti;1888;1876-1900;prosa letteraria
 it0275.txt;CLiGS Ku;Federico de Roberto;Passato;1888;1876-1900;prosa letteraria
@@ -463,6 +487,7 @@ ITBI0910.txt;ELTeC;Federigo Tozzi;Con gli occhi chiusi;1919;1901-1925;prosa lett
 ITBI0726.txt;ELTeC;Federigo Tozzi;Tre croci;1920;1901-1925;prosa letteraria
 BibItTozzi1.txt;BibIt;Federigo Tozzi;Il podere;1921;1901-1925;prosa letteraria
 Personali.V.11.Testo.txt;MIDIA;Federigo Tozzi;Novale: diario;1925;1901-1925;personale
+diacorisVerdinois1.txt;DiaCoris;Federigo Verdinois (traduttore) / C. Dickens;Canticvo di Natale;1888;1876-1900;prosa letteraria
 Teatro.V.23.Testo.txt;MIDIA;Felice Cavallotti;I Pezzenti;1881;1876-1900;teatro
 Teatro.IV.53.Testo.txt;MIDIA;Felice Romani;Norma;1831;1826-1850;teatro
 Scientifici.IV.4.Testo.txt;MIDIA;Ferdinando Galiani;Della moneta;1751;1751-1800;espositivo
@@ -509,6 +534,7 @@ BibItVenier1.txt;BibIt;Francesco Venier;Relazione di Francia di Francesco Venier
 LISCalamandrei1.txt;LIS;Franco Calamandrei;De Castries prigioniero del gen. Giap;1954;1951-1975;stampa
 LISBella1.txt;LIS;Franco de Bella;Il furgone blindato di una banca assalito da sette banditi armati e mascherati;1958;1951-1975;stampa
 LISNasi1.txt;LIS;Franco Nasi;Mattei è morto in un incidente aereo ;1962;1951-1975;stampa
+diacorisGiorgio1.txt;DiaCoris;Frasca Polara Giorgio;Un 'DC 8' partito da Roma precipita a Palermo con 115 persone. Nessun superstite;1972;1951-1975;stampa
 diacorisJesi1.txt;DiaCoris;Furio Jesi;Cultura di destra;1979;1976-2000;espositivo
 Poesia.V.21.Testo.txt;MIDIA;Gabriele d'Annunzio;Primo vere;1880;1876-1900;poesia
 li0770.txt;CLiGS Ro;Gabriele d'Annunzio;Il Piacere;1889;1876-1900;prosa letteraria
@@ -686,8 +712,10 @@ LISBocca8.txt;LIS;Giorgio Bocca;Questo e poi basta ;1963;1951-1975;stampa
 LISBocca9.txt;LIS;Giorgio Bocca;Lo straniero concittadino ;1963;1951-1975;stampa
 diacorisBocca1.txt;DiaCoris;Giorgio Bocca / Il Giorno;Eccolo! Sembra un istitutore un po' timido;1961;1951-1975;stampa
 diacorisCaproni1.txt;DiaCoris;Giorgio Caproni;Traduzione di Bel-Ami di Guy de Maupassant;1965;1951-1975;prosa letteraria
+diacorisGiorgio2.txt;DiaCoris;Giorgio Caproni;Traduzione di Bel-Ami di Guy de Maupassant;1965;1951-1975;stampa
 diacorisChirico1.txt;DiaCoris;Giorgio de Chirico / La Ronda;Classicismo pittorisco;1920;1901-1925;stampa
 LISFrasca1.txt;LIS;Giorgio Frasca Polara;Un 'DC 8' partito da Roma precipita a Palermo con 115 persone. Nessun superstite ;1972;1951-1975;stampa
+diacorisVecchietti1.txt;DiaCoris;Giorgio Vecchietti;Appunti di un Gregario. Le due età;1928;1926-1950;stampa
 LISZampa1.txt;LIS;Giorgio Zampa;Clamoroso scandalo in vista per un libro di Boris Pasternàk ;1957;1951-1975;stampa
 BibItCarducci5.txt;BibIt;Giosue Carducci;Juvenilia;1857;1851-1875;poesia
 BibItCarducci3.txt;BibIt;Giosue Carducci;Inno a Satana;1865;1851-1875;poesia
@@ -742,6 +770,7 @@ ProsaLett.V.6.Testo.txt;MIDIA;Giovanni Faldella;Le Figurine;1875;1851-1875;prosa
 LISGiovannini1.txt;LIS;Giovanni Giovannini;In veglia col tricolore sul luogo dove morirono;1953;1951-1975;stampa
 LISGrazzini22.txt;LIS;Giovanni Grazzini;È tornata donna ;1962;1951-1975;stampa
 diacorisGuareschi1.txt;DiaCoris;Giovanni Guareschi;Corrierino delle famiglie;1954;1951-1975;prosa letteraria
+diacorisGuareschi2.txt;DiaCoris;Giovanni Guareschi;Corrierino delle famiglie;1954;1951-1975;prosa letteraria
 LLBianconi1.txt;Liber Liber;Giovanni Lodovico Bianconi;Lettere;1763;1751-1800;personale
 Personali.IV.36.Testo.txt;MIDIA;Giovanni Maffei;Lettere;1818;1801-1825;personale
 LISMosca1.txt;LIS;Giovanni Mosca;Meraviglioso Gimondi ;1965;1951-1975;stampa
@@ -785,6 +814,7 @@ LISSpadolini17.txt;LIS;Giovanni Spadolini;La Polonia in segna;1970;1951-1975;sta
 LISSpadolini18.txt;LIS;Giovanni Spadolini;Chiesa e stato;1970;1951-1975;stampa
 LISSpadolini19.txt;LIS;Giovanni Spadolini;Frau storia e leggenda;1970;1951-1975;stampa
 LISSpadolini20.txt;LIS;Giovanni Spadolini;Porta Pia/ la chiesa e l'Italia;1970;1951-1975;stampa
+diacorisSpadolini1.txt;DiaCoris;Giovanni Spadolini;La praga all'Ussuri;1969;1951-1975;stampa
 ProsaLett.V.16.Testo.txt;MIDIA;Giovanni Verga;Sulle lagune;1863;1851-1875;prosa letteraria
 li1749.txt;CLiGS Ro;Giovanni Verga;Una peccatrice;1866;1851-1875;prosa letteraria
 BibItVerga10.txt;BibIt;Giovanni Verga;Storia di una capinera;1870;1851-1875;prosa letteraria
@@ -809,6 +839,7 @@ Teatro.V.9.Testo.txt;MIDIA;Giovanni Verga;Dal tuo al mio;1903;1901-1925;teatro
 Scientifici.V.5.Testo.txt;MIDIA;Giovanni Virginio Schiaparelli;Le stelle cadenti;1873;1851-1875;espositivo
 Scientifici.V.7.Testo.txt;MIDIA;Giovanni Virginio Schiaparelli;Il pianeta Marte;1893;1876-1900;espositivo
 diacorisGiovanni1.txt;DiaCoris;Giovanni XXIII;Mater et Magistra;1961;1951-1975;espositivo
+diacorisGiovanni2.txt;DiaCoris;Giovanni XXIII;Pacem in terris;1963;1951-1975;espositivo
 Teatro.IV.29.Testo.txt;MIDIA;Girolamo Gigli;La Dirindina;1715;1700-1750;teatro
 LLTiraboschi1.txt;Liber Liber;Girolamo Tiraboschi;Storia della letteratura italiana. Tomo III – Parte I;1794;1751-1800;espositivo
 LLTiraboschi2.txt;Liber Liber;Girolamo Tiraboschi;Storia della letteratura italiana. Tomo III – Parte II;1794;1751-1800;espositivo
@@ -869,6 +900,7 @@ li0202.txt;CLiGS Ro;Giuseppe Rovani;Cent'anni;1859;1851-1875;prosa letteraria
 ProsaLett.V.2.Testo.txt;MIDIA;Giuseppe Rovani;Cento anni;1874;1851-1875;prosa letteraria
 LISSignori1.txt;LIS;Giuseppe Signori;Finalmente Loi ha mostrato di essere un vero campione;1961;1951-1975;stampa
 LISTamburrano1.txt;LIS;Giuseppe Tamburrano;Gli intellettuali e la 'via democratica' ;1957;1951-1975;stampa
+diacorisTamburrano1.txt;DiaCoris;Giuseppe Tamburrano;Gli intellettuali e la 'via democratica';1957;1951-1975;stampa
 Poesia.V.44.Testo.txt;MIDIA;Giuseppe Ungaretti;L’Allegria;1931;1926-1950;poesia
 LLVannicolo1.txt;Liber Liber;Giuseppe Vannicola;Da un velo;1906;1901-1925;prosa letteraria
 diacorisGoffredo1.txt;DiaCoris;Goffredo Parise;Il prete bello;1954;1951-1975;prosa letteraria
@@ -915,6 +947,7 @@ LISMontanelli7.txt;LIS;Indro Montanelli;Partono per la Luna ;1969;1951-1975;sta
 LISMontanelli8.txt;LIS;Indro Montanelli;Caro Ventura/ Agosteo/ Rossetti/ Turrini/ ragioniere/ Pastore/ Doldi/ Maccarini/ Robotti/ Barone/ amico/ Damaco/ Giorgio/ Terracini/ Modula/ Luisa/ Partioli/ Maldini/ Ortolani/ Possenti/ Assunta/ dottor Papandrea/ Paolo;1979;1976-2000;stampa
 LISMontanelli9.txt;LIS;Indro Montanelli;Mattei ;1970;1951-1975;stampa
 LISMontanelli10.txt;LIS;Indro Montanelli;Andreotti;1970;1951-1975;stampa
+diacorisMontanelli3.txt;DiaCoris;Indro Montanelli;L'Italia del Risorgimento (1831-1861);1972;1951-1975;espositivo
 diacorisMontanelli2.txt;DiaCoris;Indro Montanelli / Il nuovo Corriere della Sera;Bombay-Nuova Delhi. Frontier Mail;1952;1926-1950;stampa
 diacorisMontanelli1.txt;DiaCoris;Indro Montanelli / Il nuovo Corriere della Sera;Addio a Longanesi;1957;1951-1975;stampa
 ProsaLett.V.1.Testo.txt;MIDIA;Ippolito Nievo;Novelliere campagnolo;1856;1851-1875;prosa letteraria
@@ -1081,6 +1114,8 @@ it0135.txt;CLiGS Ku;Luigi Capuana;Pensione;1921;1901-1925;prosa letteraria
 it0136.txt;CLiGS Ku;Luigi Capuana;Bivio;1921;1901-1925;prosa letteraria
 it0137.txt;CLiGS Ku;Luigi Capuana;Ostacolo;1921;1901-1925;prosa letteraria
 it0138.txt;CLiGS Ku;Luigi Capuana;Ciccio;1921;1901-1925;prosa letteraria
+diacorisCapuana1.txt;DiaCoris;Luigi Capuana;Giacinta;1889;1876-1900;prosa letteraria
+diacorisCecchini1.txt;DiaCoris;Luigi Cecchini;I cestisti del Simmenthal campioni d'Europa;1966;1951-1975;stampa
 BibItGregori3.txt;BibIt;Luigi de Gregori;Libro/ biblioteche e associazioni bibliotecarie;1928;1926-1950;espositivo
 BibItGregori1.txt;BibIt;Luigi de Gregori;Biblioteche;1931;1926-1950;espositivo
 BibItGregori2.txt;BibIt;Luigi de Gregori;Il bibliotecario;1947;1926-1950;espositivo
@@ -1132,6 +1167,7 @@ Scientifici.V.15.Testo.txt;MIDIA;Mario Calderoni;I postulati della scienza posit
 Espositivi.V.28.Testo.txt;MIDIA;Mario Calderoni;Disarmonie morali e disarmonie economiche ;1906;1901-1925;espositivo
 LISCervi1.txt;LIS;Mario Cervi;Una donna che ha visto l'assassino lo riconosce nella foto di Raoul Ghiani;1958;1951-1975;stampa
 ProsaLett.V.23.Testo.txt;MIDIA;Mario Pratesi;L’eredità;1885;1876-1900;prosa letteraria
+diacorisRigoni1.txt;DiaCoris;Mario Rigoni Stern;Il sergente nella neve;1953;1951-1975;prosa letteraria
 diacorisBernardi1.txt;DiaCoris;Marziano Bernardi / Casabella;Gusto e deformazione;1930;1926-1950;stampa
 diacorisBontempelli1.txt;DiaCoris;Massimo Bontempelli;Vita e morte di Adria e dei suoi figli;1930;1926-1950;prosa letteraria
 LISCaputo1.txt;LIS;Massimo Caputo;L'ultima giornata d'attesa fu la più straziante a Marcinelle;1956;1951-1975;stampa
@@ -1152,6 +1188,7 @@ LLAmari5.txt;Liber Liber;Michele Amari;Il vespro siciliano;1843;1826-1850;esposi
 LLAmari2.txt;Liber Liber;Michele Amari;Storia dei musulmani di Sicilia I;1854;1851-1875;espositivo
 LLAmari3.txt;Liber Liber;Michele Amari;Storia dei musulmani di Sicilia II;1858;1851-1875;espositivo
 LLAmari4.txt;Liber Liber;Michele Amari;Storia dei musulmani di Sicilia III.I;1868;1851-1875;espositivo
+diacorisMondrioli1.txt;DiaCoris;Mondrioli;La partenza;1909;1901-1925;stampa
 LISGinzburg1.txt;LIS;Natalia Ginzburg;Ragioni d'orgoglio ;1975;1951-1975;stampa
 LISGinzburg2.txt;LIS;Natalia Ginzburg;Sulle sponde del Tigrai ;1970;1951-1975;stampa
 LISGinzburg3.txt;LIS;Natalia Ginzburg;Cuore;1970;1951-1975;stampa
@@ -1215,6 +1252,7 @@ BibItFoscarini3.txt;BibIt;Nicolò Foscarini / Lorenzo Tiepolo;Relazione di Franc
 LISJotti1.txt;LIS;Nilde Jotti;La questione dei fumetti;1951;1951-1975;stampa
 Personali.V.13.Testo.txt;MIDIA;Olindo Guerrini;Brani di vita;1908;1901-1925;personale
 LISBuono1.txt;LIS;Oreste del Buono;Permettete (o no?) questo splendido tango?;1973;1951-1975;stampa
+diacorisBuono1.txt;DiaCoris;Oreste del Buono;Il romanzo nero;1947;1926-1950;stampa
 LISFallaci1.txt;LIS;Oriana Fallaci;Nixon non mi è piaciuto;1968;1951-1975;stampa
 LISFallaci2.txt;LIS;Oriana Fallaci;Con gli uomini che vanno sulla Luna ;1968;1951-1975;stampa
 LISFallaci3.txt;LIS;Oriana Fallaci;L'uomo è sulla Luna ;1969;1951-1975;stampa
@@ -1223,6 +1261,7 @@ LISFallaci5.txt;LIS;Oriana Fallaci;La notte di sangue in cui sono stata ferita;1
 LISFallaci6.txt;LIS;Oriana Fallaci;Per avere un figlio darebbe metà del suo regno ;1954;1951-1975;stampa
 LISFallaci7.txt;LIS;Oriana Fallaci;Pasolini ucciso da due motociclisti? ;1975;1951-1975;stampa
 LISFallaci8.txt;LIS;Oriana Fallaci;Kissinger rivela ;1972;1951-1975;stampa
+diacorisFallaci1.txt;DiaCoris;Oriana Fallaci;Parla 007;1965;1951-1975;stampa
 LISVergani1.txt;LIS;Orio Vergani;Corrado Alvaro;1956;1951-1975;stampa
 LISVergani2.txt;LIS;Orio Vergani;Bruno Barilli;1952;1951-1975;stampa
 LISVergani3.txt;LIS;Orio Vergani;Luigi Barzini senior;1959;1951-1975;stampa
@@ -1251,6 +1290,7 @@ LISVergani15.txt;LIS;Orio Vergani;Gerusalemme ;1949;1926-1950;stampa
 LISVergani26.txt;LIS;Orio Vergani;Profeta e poeta del cosmo;1955;1951-1975;stampa
 LISVergani27.txt;LIS;Orio Vergani;Già/ io bocciai anche Sofia Loren ;1957;1951-1975;stampa
 LISVergani28.txt;LIS;Orio Vergani;Il grande airone ha chiuso le ali ;1960;1951-1975;stampa
+diacorisVergani1.txt;DiaCoris;Orio Vergani;Guido Da Verona;1949;1926-1950;stampa
 diacorisGnocchiViani1.txt;DiaCoris;Osvaldo Gnocchi Viani (traduttore) / J.B. Bouvier;Venere ed Imene al tribunale della penitenza: manuale dei confessori ;1885;1876-1900;prosa letteraria
 LISOttieri1.txt;LIS;Ottiero Ottieri;Il lamento di un senza dialetto;1965;1951-1975;stampa
 diacorisPasinetti1.txt;DiaCoris;P.M. Pasinetti / Cinema;L'inaugurazione del 'centro';1940;1926-1950;stampa
@@ -1375,6 +1415,7 @@ LISLeydi1.txt;LIS;Roberto Leydi;Così il rock ha cambiato il mondo;1970;1951-197
 LISLonghi1.txt;LIS;Roberto Longhi;La Biennale degli astrattisti ci sorprende con un realista;1954;1951-1975;stampa
 diacorisVacca1.txt;DiaCoris;Roberto Vacca;Il Medioevo prossimo venturo;1970;1951-1975;espositivo
 LISCastiglia1.txt;LIS;Roderigo di Castiglia;«Vittorini se n'è ghiuto/ E soli ci ha lasciato!...». Canzone napoletana ;1951;1951-1975;stampa
+diacorisLalla1.txt;DiaCoris;Romano Lalla;Le parole tra noi leggere;1969;1951-1975;prosa letteraria
 LISRomeo1.txt;LIS;Rosario Romeo;Quale politica per la Dc ;1975;1951-1975;stampa
 LISRomeo2.txt;LIS;Rosario Romeo;La Dc e i suoi elettori ;1975;1951-1975;stampa
 LISRomeo3.txt;LIS;Rosario Romeo;I figli di ignoti ;1975;1951-1975;stampa
@@ -1499,6 +1540,7 @@ LISRiva1.txt;LIS;Valerio Riva;Povero Cristo ;1975;1951-1975;stampa
 diacorisPratolini2.txt;DiaCoris;Vasco Pratolini;Cronache di poveri amanti;1947;1926-1950;prosa letteraria
 diacorisPratolini1.txt;DiaCoris;Vasco Pratolini / Il politecnico;Cronache fiorentine del 20° sec.;1947;1926-1950;stampa
 diacorisVerLav1.txt;DiaCoris;Vercelli Lavoratrice;Il ventennale tradimento del massone badoglio al lavoro italiano;1943;1926-1950;stampa
+diacorisLilli1.txt;DiaCoris;Verginio Lilli;Hiroshima angoscia del mondo;1948;1926-1950;stampa
 LISRoberti1.txt;LIS;Vero Roberti;Il nuovo satellite ha la forma di un sigaro e prepara il volo umano negli spazi cosmici;1957;1951-1975;stampa
 Scientifici.V.14.Testo.txt;MIDIA;Vilfredo Pareto;Compendio di sociologia generale;1920;1901-1925;espositivo
 LISBalzamo1.txt;LIS;Vincenzo Balzamo;I giovani DC tra De Gasperi e Fanfani (;1957;1951-1975;stampa
@@ -1566,8 +1608,10 @@ LLBersezio2.txt;Liber Liber;Vittorio Bersezio;La plebe;1867;1851-1875;prosa lett
 LLBersezio1.txt;Liber Liber;Vittorio Bersezio;La carità del prossimo;1868;1851-1875;prosa letteraria
 LLBersezio3.txt;Liber Liber;Vittorio Bersezio;Povera Giovanna!;1869;1851-1875;prosa letteraria
 BibItBetteloni1.txt;BibIt;Vittorio Betteloni ;Canzoniere dei vent'anni;1861;1851-1875;poesia
+diacorisBrancati2.txt;DiaCoris;Vittorio Brancati;Ritorno alla censura;1952;1951-1975;espositivo
 LISGorresio1.txt;LIS;Vittorio Gorresio;Come Scelba giunse al rinvio della «notizia» molto attesa;1953;1951-1975;stampa
 LISGorresio2.txt;LIS;Vittorio Gorresio;Dopo l'arresto di Danilo Dolci scrittore cattolico/ amico dei poveri;1956;1951-1975;stampa
+diacorisGorresio1.txt;DiaCoris;Vittorio Gorresio;Spaventati dal telegramma di Stalin spaventano il paese per 48 ore;1948;1926-1950;stampa
 li0368.txt;CLiGS Ro;Vittorio Imbriani;Dio ne scampi dagli Orsenigo;1876;1876-1900;prosa letteraria
 diacorisDomLet2.txt;DiaCoris;Vittorio Pica / La Domenica Letteraria;La vita rovescio;1884;1876-1900;stampa
 LLYambo1.txt;Liber Liber;Yambo;Ciuffettino;1908;1901-1925;prosa letteraria
