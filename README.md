@@ -9,15 +9,6 @@
 - terribilmente
 - orribilmente
 
-## Zeiträume
-- 1700-1750
-- 1751-1800
-- 1801-1850
-- 1851-1900
-- 1901-1950
-- 1951-2000
-- 2001-2021 
-
 
 ## Ordnerstruktur
 
@@ -34,7 +25,7 @@
 ### Notebooks 
 - Word2Vev_SG
 	- Python-Code zum Training
-	- und zur Exploration der Word2Vec-Embeddings (Messungen)
+	- Python-Code zur Exploration der Word2Vec-Embeddings (Messungen)
 	- Plots: Visualisierungen zur Veranschaulichung der Messungen
 - Candidates
 	- Python-Code zum Herausziehen der Sätze, in denen *spaventosamente*, *terribilmente* und *orribilmente* vorkommen
